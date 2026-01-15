@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign-up-div{
+    height: 50%;
+    width: 50%;
+
+}
+.form-group1 {
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    color: #111111;
+    margin-bottom: 20px;
+}
+
+.form-group1>input {
+    width: 100%;
+    height: 4vh;
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+}
+.form-group2{
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    color: #111111;
+    margin-bottom: 20px;
+}
+.form-group2>input{
+    width: 100%;
+    height: 4vh;
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+} 
+.form-group3{
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    color: #111111;
+    margin-bottom: 20px;
+}
+.form-group3>input{
+    width: 100%;
+    height: 4vh;
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+}
+.form-group4{
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    color: #111111;
+    margin-bottom: 20px;
+}
+button {
+    width: 100%;
+    height: 60px;
+    background-color: #2544b8;
+    border-radius: 15px;
+}
+
+button>a {
+    font-size: 16px;
+    font-family: "open Sans", sans-serif;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
